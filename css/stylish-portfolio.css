@@ -171,6 +171,7 @@ hr.small {
   padding: 20px;
   height: 500px;
   width: 400px;
+  margin: 0 auto;
 }
 
 /* Services */
@@ -196,6 +197,8 @@ hr.small {
 
 .img-portfolio {
     margin: 0 auto;
+    height: 350px;
+    width: 500px;
 }
 
 .img-portfolio:hover {
